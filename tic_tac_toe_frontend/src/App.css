@@ -1,22 +1,22 @@
 /* Game specific variables */
 :root {
-  --primary-color: #FF5252;
+  --primary-color: #2196F3;
   --secondary-color: #FFFFFF;
-  --accent-color: #FFD740;
-  --bg-color: #D32F2F;
-  --text-color: #FFFFFF;
-  --border-color: rgba(255, 255, 255, 0.2);
-  --hover-color: rgba(255, 255, 255, 0.1);
+  --accent-color: #FF9800;
+  --bg-color: #FFFFFF;
+  --text-color: #333333;
+  --border-color: #EEEEEE;
+  --hover-color: rgba(33, 150, 243, 0.1);
 }
 
 [data-theme="dark"] {
   /* Dark theme colors */
-  --bg-primary: #B71C1C;
-  --bg-secondary: #C62828;
+  --bg-primary: #1a1a1a;
+  --bg-secondary: #282c34;
   --text-primary: #ffffff;
-  --text-secondary: #FFD740;
-  --border-color: rgba(255, 255, 255, 0.2);
-  --button-bg: #FF5252;
+  --text-secondary: #61dafb;
+  --border-color: #404040;
+  --button-bg: #0056b3;
   --button-text: #ffffff;
 }
 
